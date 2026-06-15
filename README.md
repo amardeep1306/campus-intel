@@ -1,3 +1,4 @@
+
 #  Campus Intelligence Dashboard
 
 A unified campus dashboard that brings together **Library**, **Cafeteria**, **Events**, and **Academics** data into one clean interface — powered by an MCP-style architecture and an AI assistant router.
@@ -265,6 +266,9 @@ Render will automatically detect the changes and redeploy.
 Built for **Problem Statement 1** — Amardeep Kumar
 
 ---
+
+https://github.com/user-attachments/assets/29b69d3a-215e-4b6c-b9d0-d1c997c4e2e6
+
 
 ## 📄 License
 
